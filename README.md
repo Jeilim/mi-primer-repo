@@ -9,4 +9,4 @@
 
 - *average*: Recibe un arreglo. Si el arreglo no existe, retorna un 0. Caso contrario, retorna el promedio de los elementos del arreglo, con ayuda de la función _sum()_ y _len()_.
 
--​*main*: Incluye una función main() para probar el correcto funcionamiento de todas las herramientas anteriores.
+- -​*main*: Incluye una función main() para probar el correcto funcionamiento de todas las herramientas anteriores.
