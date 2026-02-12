@@ -8,3 +8,5 @@
 - *maximum*: Recibe un arreglo y retorna el resultado de la función _max_ dando el arreglo como argumento.
 
 - *average*: Recibe un arreglo. Si el arreglo no existe, retorna un 0. Caso contrario, retorna el promedio de los elementos del arreglo, con ayuda de la función _sum()_ y _len()_.
+
+​Incluye una función main() para probar el correcto funcionamiento de todas las herramientas anteriores.
